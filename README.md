@@ -1,2 +1,2 @@
 # Problems
-Solutions for different problems soved as practice
+Solutions for different problems solved as practice from interviewbit or geeksforgeeks
